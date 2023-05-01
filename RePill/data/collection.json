@@ -1,0 +1,69 @@
+{
+    "pillList": [
+        {
+            "dosage": 1,
+            "schedule": [],
+            "displayName": "vitamin c",
+            "name": "vitaminc",
+            "count": 100,
+            "description": "stuff",
+            "id": 4
+        },
+        {
+            "dosage": 2,
+            "schedule": [],
+            "displayName": "tylenol",
+            "name": "tylenol",
+            "count": 200,
+            "description": "headache",
+            "id": 5
+        },
+        {
+            "dosage": 1,
+            "schedule": [],
+            "displayName": "vitamin d",
+            "name": "vitamind",
+            "count": 111,
+            "description": "stuff",
+            "id": 11
+        },
+        {
+            "dosage": 1,
+            "schedule": [],
+            "displayName": "xanax",
+            "name": "xanax",
+            "count": 222,
+            "description": "friday",
+            "id": 7
+        },
+        {
+            "dosage": 1,
+            "schedule": [],
+            "displayName": "biotin",
+            "name": "biotin",
+            "count": 111,
+            "description": "1111",
+            "id": 8
+        },
+        {
+            "dosage": 1,
+            "schedule": [],
+            "displayName": "friday",
+            "name": "friday",
+            "count": 111,
+            "description": "1111",
+            "id": 6
+        },
+        {
+            "dosage": 11,
+            "schedule": [],
+            "displayName": "aaaa",
+            "name": "aaaa",
+            "count": 111,
+            "description": "aaaa",
+            "id": 8
+        }
+    ],
+    "name": "my collection",
+    "id": 1
+}

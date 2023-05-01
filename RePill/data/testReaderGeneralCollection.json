@@ -1,0 +1,27 @@
+{
+    "pillList": [
+        {
+            "dosage": 2,
+            "schedule": [
+                "12:00",
+                "20:30"
+            ],
+            "displayName": "My Pill",
+            "name": "mypill",
+            "count": 10,
+            "description": "headache",
+            "id": 1
+        },
+        {
+            "dosage": 1,
+            "schedule": [],
+            "displayName": "Another Pill",
+            "name": "anotherpill",
+            "count": 20,
+            "description": "stomachache",
+            "id": 2
+        }
+    ],
+    "name": "My collection",
+    "id": 1
+}
